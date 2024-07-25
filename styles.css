@@ -257,7 +257,25 @@ footer ul li a:hover{
     footer ul li {
       margin-right: 15px;
     }
-  
+   .logo{
+        width: 250px;
+        margin: auto;
+        display: block;
+    }
+    .pc-main-menu ul{
+        
+        flex-wrap: wrap;
+        width: 100px;
+        
+        
+    }
+    .pc-main-menu ul li{
+        margin-top: 5px;
+        
+    }
+    .pc-main-menu ul li a{
+        display: none;
+    }
     
   
    
